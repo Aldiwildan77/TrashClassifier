@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>UAP PPK</name>
-<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
-<allow-navigation href="http://*/*"/>
-<allow-intent href="https://*/*"/>
+<widget id="com.phonegap.trashclassifier" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Trash Classifier</name>
+    
+    <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
+    <allow-navigation href="http://*/*"/>
+    <allow-intent href="https://*/*"/>
 
     <description>
         A blank PhoneGap app.
