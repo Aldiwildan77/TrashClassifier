@@ -3,8 +3,9 @@
     <name>Trash Classifier</name>
     
     <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
-    <allow-navigation href="http://*/*"/>
-    <allow-intent href="https://*/*"/>
+    <allow-navigation href="*://*/*"/>
+    <allow-navigation href="*://*/*/*/*"/>
+    <allow-intent href="*://*/*"/>
 
     <description>
         A blank PhoneGap app.
